@@ -1,1 +1,169 @@
+*{
+	margin: 0;
+}
 
+h1{
+	font-family: arial;
+}
+
+h3 {
+	font-family: arial;
+	padding: 15px;
+	text-decoration: underline;
+}
+
+.wrapper{
+	width:1000px;
+	background:#eee;
+	margin: 0 auto 0 auto;
+}
+
+.heading{
+	height:260px;
+	background-color: white;
+	background-image: url("images/20131217_100451938_logo.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 54px;	
+}
+
+
+.title{
+	font-family:impact;
+	font-size:19pt;
+	background: darkred;
+	color: white;
+	display: block;
+    text-align: center;
+    padding: 3px;
+}
+
+
+.navigation{
+	height:30px;
+	background: darkred;
+	margin-top:0px;
+	border-radius: 20px;
+	padding: 5px;
+	font-family: impact;
+	font-size: 18pt;
+    
+}
+
+.navigation a{
+	color: white;
+	text-decoration: none;
+    
+}
+
+.navigation a:hover{
+	color:black;
+	text-decoration: underline
+}
+
+
+.navigation ul{
+	text-align: center;
+    
+}
+
+.navigation ul li{
+	display: inline;
+	padding: 50px;
+}
+
+
+.content{
+	min-height: 700px;
+	background-color:floralwhite;
+	width: 1000px;	
+	padding:10px;
+	font-family: arial;
+}
+
+
+
+.content p{
+	font-size:10pt;
+    margin-top:0;
+    padding-bottom: 15px
+}
+
+
+
+.images img{
+    border-style:solid;
+    border-width: 7px;
+    border-color:chocolate;
+ 
+}
+
+
+
+.footer{
+	clear:both;
+	background:darkred;
+	height:40px;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-family:arial;
+	font-size: 16pt;
+}
+
+.gt1 {
+	font-family: arial;
+	border-bottom-style: dotted;
+}
+
+.locinfo{
+    font-size: 20;
+    border-top-style: dotted;
+    padding-top: 10px;
+    border-bottom-style: dotted;
+}
+
+.locinfo img{
+	height: 300px;
+	width: 600px
+}
+
+    
+.homep {
+    font-family: arial;
+    font-size: 15pt;
+	padding: 10px;
+}
+
+.images img {
+	border-radius: 40px;
+	height: 170px;
+}
+
+.images {
+	padding-top: 20px;
+	padding-bottom: 300px;
+}
+
+.storefront img{
+	width: 700px;
+	
+}
+
+.menuimage {
+	margin: ;
+
+}
+
+.thanks{
+	padding-top: 150px;
+	font-family: Impact;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+textarea#feedback {
+  width: 375px;
+  height: 150px;
+  display: block;
+}

@@ -19,12 +19,11 @@ h3 {
 }
 
 .heading{
-	height:260px;
+	height:400px;
 	background-color: white;
 	background-image: url("/images/logo.jpg");
 	background-repeat: no-repeat;
-	background-position: center;
-	padding: 54px;	
+	background-position: center;	
 }
 
 

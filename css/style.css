@@ -20,8 +20,8 @@ h3 {
 
 .heading{
 	height:260px;
-	
-	background-image: url("images/chicken.jpg");
+	background-color: white;
+	background-image: url("images/logo.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	padding: 54px;	
